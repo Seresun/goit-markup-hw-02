@@ -123,6 +123,7 @@ body {
 .title-info {
 font-size:36px;
 line-height: 1.11;
+line-height: 1.11;
 font-weight:700;
 line-height:40px;
 letter-spacing:0.02em;
@@ -131,7 +132,7 @@ text-transform:capitalize;
 color: #2e2f42;
 }
 
-.list-names {
+.list-headname .list-names {
   background-color: #FFFFFF;
 }
 
