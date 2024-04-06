@@ -38,6 +38,21 @@ body {
   color:#404bbf;
 }
 
+.mail-info {
+  font-style: normal;
+}
+.mail-list-info {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color:#434455;
+}
+.mail-list-info:hover {
+  color:#404bbf;
+}
+.mail-list-info:active {
+  color:#404bbf;
+}
+
 .section-one {
   background-color: #2E2F42;
 }
