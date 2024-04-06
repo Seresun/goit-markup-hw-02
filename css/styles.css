@@ -9,19 +9,19 @@ body {
   font-family: "Raleway",sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
-  text-align: left;
+  text-transform: uppercase;
   
 }
 .blacklogo {
   color:#2E2F42;
-  font-family: "Raleway";
-  font-size: 18px;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
-  line-height: 21px;
+  font-size: 18px;
+  line-height: 1.17;
   letter-spacing: 0.03em;
-  text-align: left;
+  text-transform: uppercase;
 }
 .info {
   font-family: "Roboto";
@@ -96,15 +96,6 @@ line-height: 21px;
 letter-spacing: 0.03em;
 text-align: left;
 
-}
-.lowest_part {
-  color: #F4F4FD;
-font-family: Roboto;
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0.02em;
-text-align: left;
 }
 .whitelogo {
   font-family: "Raleway", sans-serif;
