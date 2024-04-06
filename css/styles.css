@@ -33,17 +33,21 @@ body {
   color: #2E2F42;
 }
 
-.list_info {
+.list-info {
+  color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+}
+.list-info :hover {
   color: #404bbf;
+}
+.list-info :focus {
   color: #404bbf;
 }
 
-.mail_info {
+.mail-info {
   font-family: "Roboto";
   font-size: 16px;
   font-weight: 400;
@@ -51,27 +55,29 @@ body {
   letter-spacing: 0.02em;
   text-align: left;
   color: #434455;
+  font-style: normal;
 }
-.mail_info_list {
+.mail-info-list {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  color: #404bbf;
+}
+.mail-info-list :active :hover {
   color: #404bbf;
 }
 
-.section_one {
+.section-one {
   background-color: #2E2F42;
 }
-.main_title {
+.main-title {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.title_button {
+.title-button {
   background-color: #4D5AE5;
   background-color: #4D5AE5;
   font-family: "Roboto", sans-serif;
@@ -85,10 +91,10 @@ body {
   cursor: pointer;
 }
 
-.section_two {
+.section-two {
 
 }
-.second_title {
+.second-title {
 
 }
 
@@ -100,14 +106,14 @@ body {
   color: #2e2f42;
 }
 
-.strategic_info {
+.strategic-info {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
 
-.section_three {
+.section-three {
   background-color: #F4F4FD;
   font-weight: 500;
   font-size: 20px;
@@ -115,7 +121,7 @@ body {
   letter-spacing: 0.02em;
   color:#2e2f42;
 }
-.title_info {
+.title-info {
 font-size: 36px;
 line-height: 1.11;
 font-weight: 700;
@@ -134,7 +140,7 @@ line-height: 24px;
 letter-spacing: 0.02em;
 }
 
-.work_position {
+.work-position {
 color:#434455;
 font-size: 16px;
 font-weight: 400;
@@ -142,11 +148,11 @@ line-height: 24px;
 letter-spacing: 0.02em;
 }
 
-.section_four {
+.section-four {
 
 }
 
-.name_of_service {
+.name-of-service {
   color:#2E2F42;
   font-size: 20px;
   font-weight: 500;
@@ -162,7 +168,7 @@ letter-spacing: 0.02em;
   letter-spacing: 0.02em; 
 }
 
-.footer_info {
+.footer-info {
   background-color:#2E2F42;
   font-family: Raleway;
   font-size: 18px;
@@ -180,7 +186,7 @@ letter-spacing: 0.02em;
   text-transform: uppercase;
   color: #f4f4fd;
 }
-.text_under_logo {
+.text-under-logo {
   line-height: 1.5;
   color:#F4F4FD;
   letter-spacing: 0.02em;
