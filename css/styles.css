@@ -33,18 +33,12 @@ body {
   color: #2E2F42;
 }
 
-.list-info {
+.listinfo {
   color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
-.list-info .mail-info-list:hover {
-  color: #404bbf;
-}
-.list-info .mail-info-list:focus {
-  color: #404bbf;
 }
 
 .mail-info {
@@ -62,6 +56,13 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.listinfo .mail-info-list:hover {
+  color: #404bbf;
+}
+.listinfo .mail-info-list:focus {
+  color: #404bbf;
 }
 
 .section-one {
