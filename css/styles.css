@@ -58,16 +58,10 @@ body {
   color: #2e2f42;
 }
 
-.listinfo :hover {
+.listinfo .mail-info-list:hover {
   color: #404bbf;
 }
-.listinfo :focus {
-  color: #404bbf;
-}
-.mail-info-list :hover {
-  color: #404bbf;
-}
-.mail-info-list :focus {
+.listinfo .mail-info-list:focus {
   color: #404bbf;
 }
 
@@ -91,10 +85,10 @@ body {
   background-color: #4D5AE5;
   cursor: pointer;
 }
-.title-button :hover {
+.title-button:hover {
   background-color:#404BBF;
 }
-.title-button :active {
+.title-button:focus {
   background-color:#404BBF;
 }
 
@@ -128,7 +122,7 @@ body {
 
 .title-info {
 font-size:36px;
-line-height:1.11;
+line-height: 1.11;
 font-weight:700;
 line-height:40px;
 letter-spacing:0.02em;
@@ -137,7 +131,7 @@ text-transform:capitalize;
 color: #2e2f42;
 }
 
-ul li {
+.list-names {
   background-color: #FFFFFF;
 }
 
