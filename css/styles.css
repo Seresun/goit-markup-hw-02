@@ -24,19 +24,19 @@ body {
   text-transform: uppercase;
 }
 
-.list-info .info {
+.list-info {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color:#2E2F42;
 }
 .info {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color:#2E2F42;
 }
 .list-info:hover {
   color:#404bbf;
@@ -88,10 +88,6 @@ body {
   background-color:#404BBF;
 }
 
-.section-two {
-
-}
-
 .names {
   font-weight: 500;
   font-size: 20px;
@@ -119,7 +115,6 @@ body {
 .title-info {
 font-size:36px;
 line-height: 1.11;
-line-height: 1.11;
 font-weight:700;
 line-height:40px;
 letter-spacing:0.02em;
@@ -128,7 +123,8 @@ text-transform:capitalize;
 color: #2e2f42;
 }
 
-.list-headname .list-names {
+.list-headname {
+  line-height: 1.11;
   background-color: #FFFFFF;
 }
 
