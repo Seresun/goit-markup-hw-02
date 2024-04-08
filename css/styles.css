@@ -12,7 +12,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  
+  text-decoration: none;
 }
 .blacklogo {
   color:#2E2F42;
@@ -22,6 +22,7 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
 }
 
 .list-info {
@@ -30,6 +31,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:#2E2F42;
+  list-style: none;
 }
 .info {
   font-weight: 500;
@@ -110,7 +112,6 @@ body {
 .title-info {
 font-size:36px;
 line-height: 1.11;
-font-weight:700;
 letter-spacing:0.02em;
 text-align:center;
 text-transform:capitalize;
@@ -127,8 +128,7 @@ color: #2e2f42;
 .work-position {
 color:#434455;
 font-size: 16px;
-font-weight: 400;
-line-height: 24px;
+line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
@@ -136,7 +136,7 @@ letter-spacing: 0.02em;
   color:#2E2F42;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
 }
 
@@ -144,19 +144,14 @@ letter-spacing: 0.02em;
   color:#434455;
   font-size: 16px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   letter-spacing: 0.02em; 
 }
 
 .footer-info {
   background-color:#2E2F42;
-  font-family: Raleway;
-  font-size: 18px;
-  font-weight: 700;
-  line-height: 21px;
-  letter-spacing: 0.03em;
-  text-align: left;
 }
+
 .whitelogo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -165,6 +160,7 @@ letter-spacing: 0.02em;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #f4f4fd;
+  text-decoration: none;
 }
 .text-under-logo {
   line-height: 1.5;
