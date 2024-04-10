@@ -3,6 +3,12 @@ body {
   background-color:#FFFFFF;
   font-family: "Roboto", sans-serif;
 }
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
 
 .bluelogo {
   color: #4D5AE5;
